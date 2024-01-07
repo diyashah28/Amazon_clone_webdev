@@ -1,1 +1,1 @@
-#This is an amazon clone using only html and css.
+# This is an amazon clone using only html and css.
